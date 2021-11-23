@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: production
-      url: https://webdemobiswise.netlify.app/
+      url: https://blissful-bell-a8b3ed.netlify.app/
     steps:
       - name: deploy
         run: echo "deploying"
